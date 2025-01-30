@@ -440,7 +440,7 @@
 
     <section class="hero">
         <div class="hero-content">
-            <h1 class="hero-title">Project Management Excellence</h1>
+            <h1 class="hero-title">Project Management/Agile Scrum Master</h1>
             <h2 class="hero-subtitle">Agile | Scrum | Leadership</h2>
         </div>
     </section>
@@ -503,7 +503,7 @@
 
                             <h3>Technologies & Tools</h3>
                             <div class="tech-stack">
-                                <span>Azure</span>
+                                <span>Trello</span>
                                 <span>Jira</span>
                                 <span>ServiceNow</span>
                                 <span>Power BI</span>
